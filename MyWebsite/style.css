@@ -1,0 +1,53 @@
+/* Vintage and Elegant */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #faf3e0;
+    color: #5e5343;
+    margin: 0;
+    padding: 40px;
+    line-height: 1.8;
+}
+
+h1 {
+    color: #4a3f35;
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #6b5b4d;
+    font-size: 2em;
+    font-style: italic;
+    margin-top: 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #d4c9b8;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    border: 2px solid #d4c9b8;
+    height: 250px;
+}
+
+a {
+    color: #8b7355;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #6b5b4d;
+    text-decoration: underline;
+}
